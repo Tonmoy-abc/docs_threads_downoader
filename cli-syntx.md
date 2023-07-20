@@ -71,4 +71,5 @@ py app.py -d --url video_url --dir path/
 `note : --dir is optional by default ./videos/`
 
 
+
 [sc]:https://github.com/Tonmoy-abc/threads-video-downloader/blob/main/img/sc.png?raw=true
