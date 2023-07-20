@@ -8,4 +8,4 @@ Threads Video Downloader is a simple python script for downloading threads video
 
 #### [Commands](https://github.com/Tonmoy-abc/docs_threads_downoader/blob/main/cli-syntx.md)
 
-#### [Python Example](https://github.com/Tonmoy-abc/docs_threads_downoader/blob/main/cli-syntx.md)
+#### [Python Example](https://github.com/Tonmoy-abc/docs_threads_downoader/blob/main/code.md)
