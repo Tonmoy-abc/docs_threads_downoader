@@ -6,7 +6,7 @@
 
 1. Open the Threads app and copy the profile link.
 2. Paste the link into any browser and select a video.
-![Image](sc)
+![Image](https://github.com/Tonmoy-abc/threads-video-downloader/blob/main/img/sc.png?raw=true)
 3. Click on the three dots in the right corner.
 4. Choose the option to copy the link.
 5. The url will look like this `https://www.threads.net/@foodnetwork/post/Cu19A2IrEug`
@@ -70,6 +70,3 @@ py app.py -d --url video_url --dir path/
 
 `note : --dir is optional by default ./videos/`
 
-
-
-[sc]:https://github.com/Tonmoy-abc/threads-video-downloader/blob/main/img/sc.png?raw=true
